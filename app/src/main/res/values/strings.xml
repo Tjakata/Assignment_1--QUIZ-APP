@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Assignment 1_quiz</string>
+    <string name="select_from_the_names_below_who_this_celebrity_is">Select from the names below who this celebrity is!</string>
+    <string name="todo">TODO</string>
+    <string name="button1">Button1</string>
+</resources>
